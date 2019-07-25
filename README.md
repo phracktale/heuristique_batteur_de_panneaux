@@ -1,0 +1,1 @@
+# heuristique_batteur_de_panneaux
